@@ -1,3 +1,5 @@
+SITE E-COMMERCE EN JAVASCRIPT.
+
 Il s'agit ici du front-end et du back-end du projet n°5 de la formation Développeur Web d'OpenClassRooms.
 
 Back-end : Prerequis
